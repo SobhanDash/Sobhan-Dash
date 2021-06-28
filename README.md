@@ -1,4 +1,4 @@
-<h1 align="center">🌎Hello, <Everyone/>! 👋 I'm Sobhan Dash</h1>
+<h1 align="center">🌎Hello! 👋 I'm Sobhan Dash</h1>
 <h3 align="center">I am a self-taught web developer with a strong eye for innovative design and a keen understanding of techniques geared toward optimum user experience👨‍💻.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SobhanDash&color=5000b8&style=flat-square" alt="Sobhan Dash" /> </p>
