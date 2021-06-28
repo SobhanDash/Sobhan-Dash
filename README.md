@@ -9,17 +9,6 @@
 
 - 📫 How to reach me **sobhan7dash@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://twitter.com/Neo_kaizerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sobhan Dash Twitter" height="30" width="40" /></a>
-
-<a href="https://www.linkedin.com/in/sobhan-dash-9b5b38186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sobhan Dash LinkedIn" height="30" width="40" /></a>
-
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/trilochansahoo01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/trilochansahoo01" height="30" width="40" /></a>
-
-</p>
-
 ## Languages And Skills:
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
