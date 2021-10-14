@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SobhanDash&color=5000b8&style=flat-square" alt="Sobhan Dash" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, Javascript**
+- 🌱 I’m currently learning **ReactJS, NodeJS**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://sobhan-dash.netlify.app/)
 
