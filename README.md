@@ -44,16 +44,13 @@
 
 [<img align="left" alt=" Twitter" width="40" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Neo_kaizerr)
 
-[<img align="left" alt="LinkedIn" width="40" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sobhan-dash-9b5b38186/)
+[<img align="left" alt="LinkedIn" width="40" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sobhandash/)
 
-[<img align="left" alt="Instagram" width="40" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/n_e_o_009/)
+[<img align="left" alt="Instagram" width="40" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/n_e_o_007/)
 
 [<img align="left" alt="dev.to" width="40" height="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" />](https://dev.to/sobhandash)
 
-[<img align="left" alt="Instagram" width="40" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:sobhan7dash@gmail.com)
+[<img align="left" alt="Gmail" width="40" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:sobhan7dash@gmail.com)
 
-<!-- https://www.linkedin.com/in/sobhan-dash-9b5b38186/ -->
-<!-- https://dev.to/sobhandash -->
-<!-- mailto: sobhan7dash@gmail.com -->
 <br />  
 <br />
